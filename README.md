@@ -15,4 +15,4 @@
 <a href="https://github.com/samuelraindrwn/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelraindrwn&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelraindrwn&theme=tokyonight" alt="samuelraindrwn" />
 <br/>
-<img src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp" align="left">
+<img width="98%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1wcmlkcW82bTltcDQ1d3BtdGVza3FkNTZ0N3Z2eDJxdDIybzdnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" align="left">
