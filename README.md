@@ -30,7 +30,6 @@
 ![R](https://img.shields.io/badge/R-lightblue?style=for-the-badge&labelColor=black&logo=R&logoColor=lightblue)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=blue)
 ![PHP](https://img.shields.io/badge/php-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=blue)
-![SCSS](https://img.shields.io/badge/scss-a83299?style=for-the-badge&labelColor=black&logo=scss&logoColor=a83299)
 
 ## Software
 
