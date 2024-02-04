@@ -31,7 +31,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=blue)
 ![PHP](https://img.shields.io/badge/php-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=blue)
 
-## Software
+## Software & Tools
 
 ![Jupyter](https://img.shields.io/badge/jupyter-orange?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=orange)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078d7)
