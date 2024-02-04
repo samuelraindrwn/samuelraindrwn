@@ -38,4 +38,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 ![Laragon](https://img.shields.io/badge/laragon-blue?style=for-the-badge&labelColor=black&logo=laragon&logoColor=blue)
 ![XAMPP](https://img.shields.io/badge/xampp-orange?style=for-the-badge&labelColor=black&logo=xampp&logoColor=orange)
-![PHPMyAdmin](https://img.shields.io/badge/phpmyadmin-bd5b11?style=for-the-badge&labelColor=black&logo=phpmyadmin&logoColor=bd5b11)
+![PHPMyAdmin](https://img.shields.io/badge/phpmyadmin-5293c4?style=for-the-badge&labelColor=black&logo=phpmyadmin&logoColor=5293c4)
