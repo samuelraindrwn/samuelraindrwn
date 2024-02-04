@@ -11,7 +11,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
 
-<h2> Github Stats </h2> 
+### GitHub Stats
 <a href="https://github.com/samuelraindrwn/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelraindrwn&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelraindrwn&theme=tokyonight" alt="samuelraindrwn" />
 <br/>
