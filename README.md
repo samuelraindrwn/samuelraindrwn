@@ -1,5 +1,5 @@
 
-<h1> Hi Welcome !!!</h1> 
+<h1> Hi Welcome 👋</h1> 
 <p>I am an Information System student with a passion for Web Development. My interest in this field began during my vocational school years, and since then I have dedicated countless hours to refining my skills in HTML, CSS, and JavaScript. Through personal and university projects, I have gained hands-on experience in frontend website development and currently I am still in the process of learning to become a full-stack web developer. I am excited to continue developing my skills and contributing to fascinating web development projects in the future.</p>
 
 
