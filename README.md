@@ -1,7 +1,28 @@
 
-<h1> Hi Welcome 👋</h1> 
-<p>I am an Information System student with a passion for Web Development, Data Science, and Business. My interest in web development began during my vocational school years, and since then I have dedicated countless hours to refining my skills in HTML, CSS, and JavaScript. Through personal and university projects, I have gained hands-on experience in frontend website development and data analysis. I am currently in the process of learning to become a full-stack web developer and data analyst.  I am excited to continue improving my skills in these areas and contributing to cutting-edge projects that mix web development, data-driven insights, and enterprise solutions.</p>
+<h1>Hi there! 👋 Welcome to my GitHub!</h1> 
+<p>I'm Rai, a software engineering enthusiast who loves learning and exploring the world of programming. Most of the repositories you'll find here are the results of my coding practice, where I experiment with various programming languages, frameworks, and new technologies.</p>
+<p>I believe every line of code I write is a small step toward mastering my craft. Feel free to explore my projects, leave feedback, or just say hi! 😊</p>
 
+---
+
+## 🤝 Open to Collaboration
+I'm always excited to collaborate on projects in the tech world!  
+If you have an idea, need a partner, or are looking for a passionate developer to join your team, don't hesitate to reach out. Let's create something amazing together! 🚀  
+
+---
+
+## 🔍 Areas of Interest:
+- Web and Mobile Development  
+- Database Engineering
+- Artificial Intelligence  
+- Big Data Analytics
+
+---
+
+## 📬 Let’s Connect!
+- [LinkedIn](https://linkedin.com/in/samuelraindrwn)  
+- [Email](mailto:samuelraycontact1@gmail.com)
+- [Instagram](https://instagram.com/samuelraindrwn)
 
 ## Technologies
 
