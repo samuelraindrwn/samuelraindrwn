@@ -13,7 +13,7 @@
 
 ### GitHub Stats
 <a href="https://github.com/samuelraindrwn/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelraindrwn&layout=compact&theme=tokyonight" /></a>
-![Rai GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelraindrwn&show_icons=true&theme=radical) </br> </br>
+![Rai GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelraindrwn&show_icons=true&theme=radical) </br></br>
 
 ## Languages
 
