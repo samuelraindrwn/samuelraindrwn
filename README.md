@@ -10,6 +10,7 @@
 ![Jquery](https://img.shields.io/badge/-Jquery-000?&logo=Jquery&logoColor=3b88ed)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
+![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Vite)
 
 ### GitHub Stats
 <a href="https://github.com/samuelraindrwn/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelraindrwn&layout=compact&theme=tokyonight" /></a>
