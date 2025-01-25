@@ -14,8 +14,7 @@
 ### GitHub Stats
 <a href="https://github.com/samuelraindrwn/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelraindrwn&layout=compact&theme=tokyonight" /></a>
 </br> </br> </br>
-
-
+(https://github-readme-stats.vercel.app/api?username=samuelraindrwn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <img width="98%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtpdWpwc3JmaTlnMWdya3A4YzFwa2lwd2twdjN1eWxndXNudnR0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" align="center">
 </br> </br>
 
