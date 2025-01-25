@@ -11,7 +11,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
 
-## Languages
+### Languages
 
 ![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
