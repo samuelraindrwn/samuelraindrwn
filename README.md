@@ -22,6 +22,7 @@ If you have an idea, need a partner, or are looking for a passionate developer t
 ## 📬 Let’s Connect!
 - [LinkedIn](https://linkedin.com/in/samuelraindrwn)  
 - [Email](mailto:samuelraycontact1@gmail.com)
+- [Gmail](https://mail.google.com/mail/?view=cm&to=samuelraycontact1@gmail.com)
 - [Instagram](https://instagram.com/samuelraindrwn)
 
 ## Technologies
