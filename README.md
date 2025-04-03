@@ -5,7 +5,7 @@
 
 ---
 
-## 🤝 Open to Collaboration
+## 🤝 Open to Collaboration 
 I'm always excited to collaborate on projects in the tech world!  
 If you have an idea, need a partner, or are looking for a passionate developer to join your team, don't hesitate to reach out. Let's create something amazing together! 🚀  
 
