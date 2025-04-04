@@ -1,7 +1,7 @@
 
 <h1>Hi there! 👋 Welcome to my GitHub!</h1> 
 <p>I'm Rai, a software engineering enthusiast who loves learning and exploring the world of programming. Most of the repositories you'll find here are the results of my coding practice, where I experiment with various programming languages, frameworks, and new technologies.</p>
-<p>I believe every line of code I write is a small step toward mastering my craft. Feel free to explore my projects, leave feedback, or just say hi! 😊</p>
+<p>I believe every line of code I write is a small step toward mastering my craft. Feel free to explore my projects, leave feedback, or just say hi! 😊</p> 
 
 ---
 
