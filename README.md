@@ -16,7 +16,7 @@ If you have an idea, need a partner, or are looking for a passionate developer t
 - Database Engineering
 - Artificial Intelligence   
 - Big Data Analytics
-
+ 
 ---
 
 ## 📬 Let’s Connect!
