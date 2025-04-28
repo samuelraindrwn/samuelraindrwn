@@ -13,7 +13,7 @@ If you have an idea, need a partner, or are looking for a passionate developer t
 
 ## 🔍 Areas of Interest:
 - Web and Mobile Development   
-- Database Engineering
+- Database Engineering 
 - Artificial Intelligence    
 - Big Data Analytics
  
