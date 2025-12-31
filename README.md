@@ -46,8 +46,4 @@ If you have an idea, need a partner, or are looking for a passionate developer t
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySql)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
-## GitHub Stats
-<a href="https://github.com/samuelraindrwn/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelraindrwn&layout=compact&theme=tokyonight" /></a>
-![Rai GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelraindrwn&show_icons=true&theme=radical) </br>
-
 <img width="98%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtpdWpwc3JmaTlnMWdya3A4YzFwa2lwd2twdjN1eWxndXNudnR0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" align="center">
