@@ -32,6 +32,7 @@ If you have an idea, need a partner, or are looking for a passionate developer t
 ![Jquery](https://img.shields.io/badge/-Jquery-000?&logo=Jquery&logoColor=3b88ed)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 
 ## Languages
 
