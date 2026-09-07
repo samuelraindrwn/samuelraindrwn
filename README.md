@@ -33,6 +33,8 @@ If you have an idea, need a partner, or are looking for a passionate developer t
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
+![.NET](https://img.shields.io/badge/-NET-000?&logo=NET)
 
 ## Languages
 
