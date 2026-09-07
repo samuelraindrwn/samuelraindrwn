@@ -47,6 +47,7 @@ If you have an idea, need a partner, or are looking for a passionate developer t
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
 <img width="98%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtpdWpwc3JmaTlnMWdya3A4YzFwa2lwd2twdjN1eWxndXNudnR0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" align="center">
